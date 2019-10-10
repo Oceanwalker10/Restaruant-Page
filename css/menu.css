@@ -1,0 +1,9 @@
+header.menuhead {
+	padding-top: 10rem;
+	padding-bottom: calc(10rem - 72px);
+	background: rgb(244, 98, 58);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+}
