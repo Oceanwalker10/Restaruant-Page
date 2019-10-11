@@ -7,3 +7,31 @@ header.menuhead {
 	background-attachment: scroll;
 	background-size: cover;
 }
+
+.menu {
+	margin: 5px;
+}
+
+.nav-pills li a {
+	background-color: rgb(244, 98, 58);
+	float: left;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	padding: 14px 16px;
+	margin: 10px;
+	transition: 0.3s;
+	font-size: 17px;
+	text-decoration: none;
+	color: white;
+	border-radius: 10px;
+}
+
+.nav-pills li a:hover {
+	background-color: #ddd;
+}
+
+
+a:active {
+	background-color: #ccc;
+}
